@@ -3,7 +3,7 @@
 ### Business Analyst | Data Analyst | Data Science Learner | Python | SQL | Data Visualization  
 ### I am a Business Analyst with experience in data analysis and visualization, currently upskilling in Data Science and Machine Learning.  
 
-🔭 I’m currently working in Telecom industry. Primary 🔧 Skills - Python ((Pandas, NumPy, Matplotlib, Seaborn, Scipy and much more), SQL/ Spark, Advanced Excel and MS Office, Data Visualization (Power BI / Tableau / Zoom Data/ Logi Composer), Machine Learning and NLP (Basics)  
+🔧 Skills - Python ((Pandas, NumPy, Matplotlib, Seaborn, Scipy and much more), SQL/ Spark, Advanced Excel and MS Office, Data Visualization (Power BI / Tableau / Zoom Data/ Logi Composer), Machine Learning and NLP (Basics)  
 
 🌱 I’m currently learning GenAI, LLM and End-to-end ML projects  
 
